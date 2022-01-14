@@ -6,13 +6,13 @@
   "keywords": ["Telegram", "Google Drive", "uploader"],
   "env": {
       "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "5010772316:AAEhhF4i3-J3yafTYJEH12Ciyugnyn3ahOk"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "2135579"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "00bc86c6b79da918b15fef59e8987254"
     }
    },
    "buildpacks": [
